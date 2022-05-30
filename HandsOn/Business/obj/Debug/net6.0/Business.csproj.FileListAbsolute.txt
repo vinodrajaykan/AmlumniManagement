@@ -1,0 +1,15 @@
+C:\Vinod\HandsOn\Business\bin\Debug\net6.0\Business.deps.json
+C:\Vinod\HandsOn\Business\bin\Debug\net6.0\Business.dll
+C:\Vinod\HandsOn\Business\bin\Debug\net6.0\ref\Business.dll
+C:\Vinod\HandsOn\Business\bin\Debug\net6.0\Business.pdb
+C:\Vinod\HandsOn\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Vinod\HandsOn\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vinod\HandsOn\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Vinod\HandsOn\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Vinod\HandsOn\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Vinod\HandsOn\Business\obj\Debug\net6.0\Business.dll
+C:\Vinod\HandsOn\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Vinod\HandsOn\Business\obj\Debug\net6.0\Business.pdb
+C:\Vinod\HandsOn\Business\bin\Debug\net6.0\DataAccess.dll
+C:\Vinod\HandsOn\Business\bin\Debug\net6.0\DataAccess.pdb
+C:\Vinod\HandsOn\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
